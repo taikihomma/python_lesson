@@ -15,5 +15,9 @@ def sub_func():
     pass
 
 
+def sub_func2():
+    pass
+
+
 if __name__ == "__main__":
     main()
