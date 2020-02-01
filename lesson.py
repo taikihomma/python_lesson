@@ -9,15 +9,7 @@ def main():
     options, args = parser.parse_args()
     print(options.filename)
     print(args)
-
-
-def sub_func():
-    pass
-
-
-def sub_func2():
-    pass
-
+    
 
 if __name__ == "__main__":
     main()
