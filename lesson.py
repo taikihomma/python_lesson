@@ -1,5 +1,7 @@
 from optparse import OptionParser
+import logging
 
+logging.basicConfig(level=logging.INFO)
 
 def main():
     usage = "usage: %prog [options] arg1 arg2"
