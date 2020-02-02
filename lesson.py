@@ -12,8 +12,7 @@ def main():
 
 
 def sample_func():
-    print("git merge2")
-    
+    print("master branch word")
     pass
 
 def feature_func():
