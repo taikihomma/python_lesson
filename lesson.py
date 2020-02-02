@@ -11,13 +11,5 @@ def main():
     print(args)
 
 
-def sample_func():
-    print("master branch word")
-    pass
-
-def feature_func():
-    pass
-
-
 if __name__ == "__main__":
     main()
