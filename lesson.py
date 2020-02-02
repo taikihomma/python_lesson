@@ -12,6 +12,7 @@ def main():
 
 
 def sample_func():
+    print("feature branch work")
     pass
 
 def feature_func():
