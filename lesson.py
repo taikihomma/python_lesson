@@ -12,6 +12,7 @@ def main():
 
 
 def sample_func():
+    print("git merge")
     pass
 
 
