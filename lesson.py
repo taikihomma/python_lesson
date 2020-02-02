@@ -16,6 +16,9 @@ def sample_func():
     
     pass
 
+def feature_func():
+    pass
+
 
 if __name__ == "__main__":
     main()
